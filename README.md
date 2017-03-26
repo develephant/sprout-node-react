@@ -2,9 +2,15 @@
 
 ### A basic Node + React + Babel + Browserify sprout
 
+## Install
+
+```
+npm install
+```
+
 ## Usage
 
-```js
+```
 npm watch
 ```
 
